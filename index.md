@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to London Clojurians Code Dojo
 
-You can use the [editor on GitHub](https://github.com/ldnclj/code-dojo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+At a code dojo event everyone can suggest challenges or little projects to work on.  This site contains a collection of challenges for coding dojo events.  Each challenge should have a description of the problem and any relevant skills or experiences are required to solve the challenge.  Challenges can include hints and tips or even possible solutions (encoraging people to create alternative solutions)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Challenges websites
+There are also external websites that contain challenges suitable for a code dojo event:
 
-### Markdown
+- [4Clojure](http://4clojure.com) - small challenges that teach you about Clojure functions
+- [Clojure(script) Koans](http://clojurescriptkoans.com/) - a Clojurescript website with small Clojure challenges
+- [Code Wars](https://www.codewars.com/) - compete/collaborate to improve your code skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Previous Code dojo challenges
+The results of some code dojo challenges can be found on the [London Clojurians Github Organisation](https://github.com/ldnclj).  
 
-# Header 1
-## Header 2
-### Header 3
+Some dojo challenges have also been written about in more detail
 
-- Bulleted
-- List
+- [Clacks Interpreter](http://jr0cket.co.uk/2016/03/clacks-interpreter-going-postal-at-london-clojure-dojo.html) - simple encoding/decoding of an alphabet
+- [Battleships](http://jr0cket.co.uk/2012/02/battleships-at-london-clojure-coding.html.html) - the classic Battleships game
+- [Flight planes with FlightGear](http://jr0cket.co.uk/2013/03/flying-planes-with-clojure-and.html.html)
+- [Something fun with cljs](https://github.com/mikeholmesuk/something-fun-cljs)
 
-1. Numbered
-2. List
+### Kata challenges
+Code dojo event often use kata challenges.  A kata is a small challenge that can be solve in many different ways, so developers are encouraged to solve kata's a number of times, each time in a different way with varying assumptions.
 
-**Bold** and _Italic_ and `Code` text
+- [Awesome kata](https://github.com/gamontal/awesome-katas) - large collection of kata challenges
+- [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) - Clojure katas inspired by Lewis Carroll and Alice in Wonderland
+- [Clojure kata](https://github.com/marshallshen/clojure-katas) - 
+- [FizzBuzz kata](http://www.codekatas.org/casts/tagged/clojure)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contributing
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ldnclj/code-dojo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Github Pages? Check out the [documentation](https://help.github.com/categories/github-pages-basics/).
+Content is created using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
